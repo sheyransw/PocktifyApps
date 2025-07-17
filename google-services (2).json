@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054486164501",
+    "project_id": "pocktifyapp",
+    "storage_bucket": "pocktifyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054486164501:android:961d9fb1770d1b72c9ca1c",
+        "android_client_info": {
+          "package_name": "com.pocktify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHMu4-3YgC12uMZlDgu69xnBZaHgVmbnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
